@@ -1,4 +1,4 @@
-FROM ghcr.io/KangersHub/torrentleechx:latest
+FROM reaitten/tgtlg:alpine-base
 
 COPY . .
 
